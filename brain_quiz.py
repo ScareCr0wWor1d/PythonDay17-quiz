@@ -21,3 +21,4 @@ class QuizzBrain:
             print("Mauvaise réponse!")
         print(f"La bonne réponse était : {rep}")
         print(f"Score: {self.score}/{self.start}")
+        print("\n")
